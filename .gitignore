@@ -6,3 +6,6 @@ _site/
 .bundle/
 vendor/
 !_sass/bootstrap/vendor/
+.DS_Store
+Thumbs.db
+.nojekyll
