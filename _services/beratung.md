@@ -8,7 +8,7 @@ Als klinische Psychologin biete ich Beratung für Menschen in allen Lebenslagen 
 
 Ich biete Einzel- und Gruppenberatung an, sowohl persoenlich als auch virtuell. Meine Beratung ist lösungsorientiert und auf die individuellen Bedürfnisse meiner Klient*innen zugeschnitten.
 
-<img src="/images/illustrations/therapy.png" alt="Illustration Therapie" style="float: right; width: 380px; margin: 0 0 1.5rem 2rem;" />
+<img src="{{ '/images/illustrations/therapy.png' | relative_url }}" alt="Illustration Therapie" style="float: right; width: 380px; margin: 0 0 1.5rem 2rem;" />
 
 ## Ich Berate Sie zu Folgenden Themen
 

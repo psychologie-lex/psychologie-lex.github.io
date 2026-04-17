@@ -8,7 +8,7 @@ weight: 2
  
 Mein Ansatz ist es, Menschen in schwierigen Lebenssituationen zu unterstützen, damit sie ihre Herausforderungen bewältigen und ihre Lebensqualität verbessern können. Ich helfe Ihnen ihre berufliche und persönliche Entwicklung fördern. 
 
-<img src="/images/illustrations/therapy_2.png" alt="Illustration Therapie" style="float: right; width: 380px; margin: 0 0 1.5rem 2rem;" />
+<img src="{{ '/images/illustrations/therapy_2.png' | relative_url }}" alt="Illustration Therapie" style="float: right; width: 380px; margin: 0 0 1.5rem 2rem;" />
 
 
 # Angebote
