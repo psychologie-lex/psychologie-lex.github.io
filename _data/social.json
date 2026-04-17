@@ -1,0 +1,15 @@
+[
+  {
+      "name": "Email",
+      "link": "mailto:office@psychologie-lex.at",
+      "image": "images/social/email.svg"
+  },
+  {
+      "name": "Phone",
+      "image": "images/social/phone.svg"
+  },
+  {
+      "name": "Address",
+      "image": "images/social/address.svg"
+  }
+]

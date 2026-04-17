@@ -1,0 +1,13 @@
+<div class="social">
+  {% for item in site.data.social %}
+    {% if item.name == "Email" %}
+      <a href="mailto:{{ site.data.contact.email }}" target="blank"><img src="{{ item.image | relative_url }}" title="{{ site.data.contact.email }}" alt="{{ item.name }}" /></a>
+    {% elsif item.name == "Phone" %}
+      <a href="tel:{{ site.data.contact.phone | remove: ' ' }}"><img src="{{ item.image | relative_url }}" title="{{ site.data.contact.phone }}" alt="{{ item.name }}" /></a>
+    {% elsif item.name == "Address" %}
+      <a href="https://maps.google.com/?q={{ site.data.contact.address | uri_escape }}" target="blank"><img src="{{ item.image | relative_url }}" title="{{ site.data.contact.address }}" alt="{{ item.name }}" /></a>
+    {% else %}
+      <a href="{{ item.link }}" target="blank"><img src="{{ item.image | relative_url }}" title="{{ item.name }}" alt="{{ item.name }}" /></a>
+    {% endif %}
+  {% endfor %}
+</div>

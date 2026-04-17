@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Erstgespräche",
+    "description": "Neue Klient:innen erhalten ein Erstgespräch zum halben Preis.",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Kassentherapie",
+    "description": "Ich biete sowohl Privattherapie als auch Kassentherapie an.",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Persönliche oder Virtuell",
+    "description": "Kommen Sie in die Praxis, oder treffen Sie mich via Videoanruf.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]
