@@ -12,7 +12,7 @@ Der Austausch mit anderen fördert neue Perspektiven und stärkt soziale Kompete
 
 Gruppen finden sowohl persönlich als auch virtuell statt.
 
-![Illustration einer Gruppentherapie](/images/illustrations/gruppe.png)
+![Illustration einer Gruppentherapie]({{ '/images/illustrations/gruppe.png' | relative_url }})
 
 
 ## Multiple-Sklerose Gruppe
