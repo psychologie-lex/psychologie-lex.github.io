@@ -5,8 +5,12 @@
       "image": "images/social/email.svg"
   },
   {
-      "name": "Telefon",
+      "name": "Phone",
       "image": "images/social/phone.svg"
+  },
+  {
+      "name": "WhatsApp",
+      "image": "images/social/whatsapp.svg"
   },
   {
       "name": "Address",

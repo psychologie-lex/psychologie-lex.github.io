@@ -10,6 +10,12 @@
       </a>
     </div>
     {% endif %}
+    {% if site.data.contact.whatsapp %}
+    <div class="call-whatsapp"><strong>WhatsApp: </strong><a href="{{ site.data.contact.whatsapp }}" target="_blank" rel="noopener">{{ site.data.contact.phone }}</a></div>
+    {% endif %}
+    {% if site.data.contact.address %}
+    <div class="call-address"><strong>Adresse: </strong><a href="{{ site.data.contact.maps_link }}" target="_blank" rel="noopener">{{ site.data.contact.address }}</a></div>
+    {% endif %}
   </div>
     {% if include.show_button %}
       <div class="call-box-bottom">

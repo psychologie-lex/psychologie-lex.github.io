@@ -5,7 +5,7 @@ description: Impressum
 permalink: "/impressum/"
 ---
 Dr.in MMag.a Heidemarie Lex  
-Körösistraße 64  
+Körösistraße 64a  
 8010 Graz
 
 ## Verantwortungsbereich
