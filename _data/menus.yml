@@ -2,10 +2,10 @@ main:
   - name: "Home"
     url: "/"
     weight: 1
-  - name: "About"
+  - name: "Über Mich"
     url: "/about/"
     weight: 4
-  - name: "Contact"
+  - name: "Kontakt"
     url: "/contact/"
     weight: 5
 
@@ -13,9 +13,9 @@ footer:
   - name: "Home"
     url: "/"
     weight: 1
-  - name: "About"
+  - name: "Über Mich"
     url: "/about/"
     weight: 2
-  - name: "Contact"
+  - name: "Kontakt"
     url: "/contact/"
     weight: 3

@@ -1,7 +1,7 @@
 ---
 title: Über Mich
 layout: page
-description: About
+description: Über Mich
 bodyClass: page-about
 ---
 
