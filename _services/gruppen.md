@@ -4,6 +4,7 @@ date: 2019-02-28T15:15:34+10:00
 weight: 3
 lang: de
 lang_alternate: /en/services/gruppen/
+description: "Gruppentherapie in Graz und virtuell – geschützter Raum für die Multiple-Sklerose-Gruppe und weitere Gruppenangebote."
 ---
 
 

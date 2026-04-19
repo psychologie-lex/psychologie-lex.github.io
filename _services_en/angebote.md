@@ -4,6 +4,7 @@ date: 2019-01-28T15:15:26+10:00
 weight: 2
 lang: en
 lang_alternate: /services/angebote/
+description: "Tailored psychological counseling and therapy, diagnostics, stress management, and health coaching in Graz and virtually."
 ---
 
 My approach is to support people in difficult life situations so that they can overcome their challenges and improve their quality of life. I help you advance your professional and personal development.

@@ -3,7 +3,7 @@ title: About
 layout: page
 lang: en
 lang_alternate: /about/
-description: About Me
+description: "CV and publications of Dr. Heidemarie Lex, clinical and health psychologist in Graz, Austria."
 bodyClass: page-about
 ---
 

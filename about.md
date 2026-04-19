@@ -3,7 +3,7 @@ title: Über Mich
 layout: page
 lang: de
 lang_alternate: /en/about/
-description: Über Mich
+description: "Lebenslauf und Publikationen von Dr. Heidemarie Lex, Klinische- und Gesundheitspsychologin in Graz, Österreich."
 bodyClass: page-about
 ---
 
@@ -22,7 +22,7 @@ Dr.in scient med. MMag.a **Heidemarie Lex** ist Klinische- und Gesundheitspsycho
 <tr><td style="white-space:nowrap; padding-right: 1.5rem; border: none;">2000–2008</td><td style="border: none;">Studium der Psychologie in Graz und Barcelona.</td></tr>
 <tr><td style="white-space:nowrap; padding-right: 1.5rem; border: none;">2009–2010</td><td style="border: none;">Ausbildung zur Klinischen und Gesundheitspsychologin in Graz.</td></tr>
 <tr><td style="white-space:nowrap; padding-right: 1.5rem; border: none;">2010</td><td style="border: none;">Gründung der Praxis in Graz.</td></tr>
-<tr><td style="white-space:nowrap; padding-right: 1.5rem; border: none;">2010–2015</td><td style="border: none;">Doktorratsstudium in Medizinwissenschaften an der Medizinischen Uni Graz und am Beth Israel Deaconess Medical Center (a Harvard Teaching Hospital) in Boston.</td></tr>
+<tr><td style="white-space:nowrap; padding-right: 1.5rem; border: none;">2010–2015</td><td style="border: none;">Doktoratsstudium in Medizinwissenschaften an der Medizinischen Uni Graz und am Beth Israel Deaconess Medical Center (a Harvard Teaching Hospital) in Boston.</td></tr>
 <tr><td style="white-space:nowrap; padding-right: 1.5rem; border: none;">2012</td><td style="border: none;">Umzug in die USA.</td></tr>
 <tr><td style="white-space:nowrap; padding-right: 1.5rem; border: none;">2015–2025</td><td style="border: none;">In der Forschung an der University of Utah tätig.</td></tr>
 <tr><td style="white-space:nowrap; padding-right: 1.5rem; border: none;">2015–2020</td><td style="border: none;">Fortbildung an der University of Utah im Masterstudiengang Clinical and Mental Health Counseling.</td></tr>

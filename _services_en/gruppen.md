@@ -4,6 +4,7 @@ date: 2019-02-28T15:15:34+10:00
 weight: 3
 lang: en
 lang_alternate: /services/gruppen/
+description: "Group therapy in Graz and virtually – a safe space in the Multiple Sclerosis group and other group offerings."
 ---
 
 Group therapy provides a protected space where people can experience that they are not alone with their thoughts and feelings.

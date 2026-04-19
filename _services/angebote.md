@@ -4,6 +4,7 @@ date: 2019-01-28T15:15:26+10:00
 weight: 2
 lang: de
 lang_alternate: /en/services/angebote/
+description: "Maßgeschneiderte psychologische Beratung und Therapie, Diagnostik, Stressbewältigung und Gesundheitscoaching in Graz und virtuell."
 ---
 
 

@@ -3,7 +3,7 @@ title: Kontakt
 layout: contact
 lang: de
 lang_alternate: /en/contact/
-description: Kontakt
+description: "Terminvereinbarung für persönliche und virtuelle Beratung bei Dr. Heidemarie Lex in Graz. Praxiszeiten und Kontaktdaten."
 ---
 
 Bitte kontaktieren Sie mich telefonisch oder per E-Mail, um einen passenden Termin zu vereinbaren.

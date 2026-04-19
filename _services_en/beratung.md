@@ -4,6 +4,7 @@ date: 2018-11-18T12:33:46+10:00
 weight: 1
 lang: en
 lang_alternate: /services/beratung/
+description: "Counseling for people in all walks of life – professional challenges, life crises, mental health conditions, trauma, and chronic illness."
 ---
 
 As a clinical psychologist I offer counseling for people in all walks of life.

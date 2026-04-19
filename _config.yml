@@ -1,8 +1,10 @@
 baseurl: ''
 permalink: pretty
 title: 'Psychologie Lex'
+url: 'https://psychologie-lex.at'
+description: 'Klinische- und Gesundheitspsychologin in Graz, Österreich. Persönliche und virtuelle Beratung.'
 
-logo:
+logos:
   mobile: "images/logo/logo-mobile.svg"
   mobile_height: "32px"
   mobile_width: "32px"
@@ -24,6 +26,10 @@ collections:
     output: true
 
 defaults:
+  - scope:
+      path: ""
+    values:
+      image: "/images/illustrations/therapy.png"
   - scope:
       path: ""
       type: "services"
@@ -59,6 +65,7 @@ sass:
 
 plugins:
   - jekyll-environment-variables
+  - jekyll-seo-tag
 
 exclude:
   - Gemfile

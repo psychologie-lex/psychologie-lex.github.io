@@ -3,7 +3,7 @@ title: Contact
 layout: contact
 lang: en
 lang_alternate: /contact/
-description: Contact
+description: "Schedule an in-person or virtual appointment with Dr. Heidemarie Lex in Graz. Opening hours and contact details."
 ---
 
 Please contact me by phone or email to arrange a suitable appointment.
