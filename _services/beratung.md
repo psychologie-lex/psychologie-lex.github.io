@@ -40,8 +40,8 @@ Ich biete Einzel- und Gruppenberatung an, sowohl persoenlich als auch virtuell. 
   * Posttraumatische Belastungsstörung (PTBS)
 
 * Erkrankungen
- * Wie kann ich mit einer (chronischen) Erkrankung umgehen? 
- * Erfahrung mit Erkrankungen wie Multiple Sklerose, Krebs, Parkinson, Arthritis, Diabetes.
+  * Wie kann ich mit einer (chronischen) Erkrankung umgehen? 
+  * Erfahrung mit Erkrankungen wie Multiple Sklerose, Krebs, Parkinson, Arthritis, Diabetes.
 
 
  
