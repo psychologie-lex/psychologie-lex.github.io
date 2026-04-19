@@ -22,3 +22,7 @@ Die Praxis befindet sich im selben Gebäude wie die Bäckerei Auer im südlichen
 
 Wir sind mit öffentlichen Verkehrsmitteln gut erreichbar (Haltestelle Hasnerplatz für Strassenbahn Linie 3 und 5), und es gibt Parkmöglichkeiten (blaue Zone), sowie die Tiefgarage [Geidorf Center](https://maps.app.goo.gl/nbGxSA6qYUnCnvAH6).
 
+# Virtuelle Termine
+
+Für virtuelle Termine verwende ich die Plattform [Zoom](https://zoom.us/). Nach der Terminvereinbarung erhalten Sie einen Link zum virtuellen Meetingraum, den Sie einfach anklicken können, um am Termin teilzunehmen. Bitte stellen Sie sicher, dass Sie eine stabile Internetverbindung und ein Gerät mit Kamera und Mikrofon haben.
+
