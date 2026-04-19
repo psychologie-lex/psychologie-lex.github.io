@@ -1,5 +1,10 @@
 source "https://rubygems.org"
 
+gem "jekyll", "~> 4.3"
 gem "webrick", "~> 1.7"
-gem "github-pages", group: :jekyll_plugins
-gem "jekyll-environment-variables"
+gem "sass-embedded"
+
+group :jekyll_plugins do
+  gem "jekyll-environment-variables"
+  gem "jekyll-seo-tag"
+end
