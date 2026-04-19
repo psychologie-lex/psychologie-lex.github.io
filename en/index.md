@@ -12,4 +12,4 @@ show_call_box: true
 
 # Psychological Practice <br> Dr. Heidemarie Lex
 
-Clinical psychologist in Graz, Austria. Private practice and public health insurance. In-person and virtual counseling.
+Clinical psychologist in Graz, Austria. Private practice and public health insurance. In-person and virtual counseling in German, English, and Spanish.

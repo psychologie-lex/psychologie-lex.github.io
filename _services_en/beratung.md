@@ -11,6 +11,8 @@ As a clinical psychologist I offer counseling for people in all walks of life.
 
 I provide individual and group counseling, both in-person and virtually. My approach is solution-focused and tailored to the individual needs of my clients.
 
+Counseling is available in German, English, and Spanish.
+
 <img src="{{ '/images/illustrations/therapy.png' | relative_url }}" alt="Therapy illustration" style="float: right; width: 380px; margin: 0 0 1.5rem 2rem;" />
 
 ## Topics I Counsel On

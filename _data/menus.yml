@@ -1,6 +1,6 @@
 main:
   - name: "Leistungen"
-    url: "/"
+    url: "#"
     weight: 1
     children:
       - name: "Beratung"
@@ -18,12 +18,12 @@ main:
 
 main_en:
   - name: "Services"
-    url: "/en/"
+    url: "#"
     weight: 1
     children:
       - name: "Counseling"
         url: "/en/services/beratung/"
-      - name: "Offerings"
+      - name: "How I Can Help"
         url: "/en/services/angebote/"
       - name: "Groups"
         url: "/en/services/gruppen/"

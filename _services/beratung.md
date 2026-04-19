@@ -9,7 +9,9 @@ description: "Beratung für Menschen in allen Lebenslagen – berufliche Herausf
 
 Als Klinische Psychologin biete ich Beratung für Menschen in allen Lebenslagen an. 
 
-Ich biete Einzel- und Gruppenberatung an, sowohl persönlich als auch virtuell. Meine Beratung ist lösungsorientiert und auf die individuellen Bedürfnisse meiner Klient*innen zugeschnitten.
+Ich biete Einzel- und Gruppenberatung an, sowohl persönlich als auch virtuell. Meine Beratung ist lösungsorientiert und auf die individuellen Bedürfnisse meiner Klient:innen zugeschnitten.
+
+Beratung ist auf Deutsch, Englisch und Spanisch möglich.
 
 <img src="{{ '/images/illustrations/therapy.png' | relative_url }}" alt="Illustration Therapie" style="float: right; width: 380px; margin: 0 0 1.5rem 2rem;" />
 

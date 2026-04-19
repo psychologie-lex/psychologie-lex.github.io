@@ -20,9 +20,9 @@ Gruppen finden sowohl persönlich als auch virtuell statt.
 
 ## Multiple-Sklerose Gruppe
 
-In Gruppen (mindestens 3 Personen)  werden wöchentlich Themen zum Umgang mit der Erkrankung, zu auftretenden psychischen Herausforderungen wie Angst, geringer Selbstwert, Planung der neuen Lebenssituation oder Bewältigung der neuen Situation behandelt.
+In Gruppen (mindestens 3 Personen) werden wöchentlich Themen zum Umgang mit der Erkrankung, zu auftretenden psychischen Herausforderungen wie Angst, geringer Selbstwert, Planung der neuen Lebenssituation oder Bewältigung der neuen Situation behandelt.
 
-Jede:r ist eingeladen, an den Gruppen teilzunehmen,  ihre/seine Erfahrungen einzubringen und an Lösungsansätzen mitzuarbeiten.
+Jede:r ist eingeladen, an den Gruppen teilzunehmen, ihre/seine Erfahrungen einzubringen und an Lösungsansätzen mitzuarbeiten.
 
 Ein Einstieg ist jederzeit möglich, um Voranmeldung wird gebeten. 
 
