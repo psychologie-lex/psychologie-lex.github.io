@@ -35,7 +35,7 @@ Dr.in scient med. MMag.a **Heidemarie Lex** ist Klinische- und Gesundheitspsycho
 
 # Multiple Sklerose
 
-Seit 2004 an Multipler Sklerose erkrankt
+Seit 2004 an Multipler Sklerose erkrankt.
 
 
 # Publikationen

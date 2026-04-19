@@ -6,9 +6,9 @@ lang: de
 lang_alternate: /en/services/beratung/
 ---
 
-Als klinische Psychologin biete ich Beratung für Menschen in allen Lebenslagen an. 
+Als Klinische Psychologin biete ich Beratung für Menschen in allen Lebenslagen an. 
 
-Ich biete Einzel- und Gruppenberatung an, sowohl persoenlich als auch virtuell. Meine Beratung ist lösungsorientiert und auf die individuellen Bedürfnisse meiner Klient*innen zugeschnitten.
+Ich biete Einzel- und Gruppenberatung an, sowohl persönlich als auch virtuell. Meine Beratung ist lösungsorientiert und auf die individuellen Bedürfnisse meiner Klient*innen zugeschnitten.
 
 <img src="{{ '/images/illustrations/therapy.png' | relative_url }}" alt="Illustration Therapie" style="float: right; width: 380px; margin: 0 0 1.5rem 2rem;" />
 
@@ -19,7 +19,7 @@ Ich biete Einzel- und Gruppenberatung an, sowohl persoenlich als auch virtuell. 
   * Burnout
   * Work-Life-Balance
   * Erarbeiten von Stressbewältigungsstrategien
-  * Umgang mit Herausfoderungen für Frauen im Arbeitsumfeld
+  * Umgang mit Herausforderungen für Frauen im Arbeitsumfeld
 
 * Berufliche Reorientierung und Wiedereinstieg
   * Motivationsprobleme
@@ -43,7 +43,7 @@ Ich biete Einzel- und Gruppenberatung an, sowohl persoenlich als auch virtuell. 
 
 * Erkrankungen
   * Wie kann ich mit einer (chronischen) Erkrankung umgehen? 
-  * Erfahrung mit Erkrankungen wie Multiple Sklerose, Krebs, Parkinson, Arthritis, Diabetes.
+  * Erfahrung mit Erkrankungen wie Multiple Sklerose, Krebs, Parkinson, Arthritis, Diabetes
 
 
  

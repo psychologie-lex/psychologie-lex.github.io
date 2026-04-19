@@ -6,7 +6,7 @@ lang: en
 lang_alternate: /services/angebote/
 ---
 
-My approach is to support people in difficult life situations so that they can overcome their challenges and improve their quality of life. I help you foster your professional and personal development.
+My approach is to support people in difficult life situations so that they can overcome their challenges and improve their quality of life. I help you advance your professional and personal development.
 
 <img src="{{ '/images/illustrations/therapy_2.png' | relative_url }}" alt="Therapy illustration" style="float: right; width: 380px; margin: 0 0 1.5rem 2rem;" />
 

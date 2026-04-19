@@ -35,7 +35,7 @@ Dr.in scient med. MMag.a **Heidemarie Lex** is a clinical and health psychologis
 
 # Multiple Sclerosis
 
-Diagnosed with multiple sclerosis in 2004.
+Living with multiple sclerosis since 2004.
 
 
 # Publications

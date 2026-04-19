@@ -43,4 +43,4 @@ I provide individual and group counseling, both in-person and virtually. My appr
 
 * Illness
   * How can I cope with a (chronic) illness?
-  * Experience with conditions such as multiple sclerosis, cancer, Parkinson's, arthritis, diabetes.
+  * Experience with conditions such as multiple sclerosis, cancer, Parkinson's, arthritis, diabetes
