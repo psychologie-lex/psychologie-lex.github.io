@@ -26,8 +26,9 @@
   display: flex;
   align-items: center;
   gap: 4px;
-  font-size: 0.85rem;
+  font-size: 1rem;
   white-space: nowrap;
+  margin-left: 24px;
   a {
     color: $primary;
     text-decoration: none;
