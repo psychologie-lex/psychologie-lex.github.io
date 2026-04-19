@@ -10,6 +10,7 @@
     > li {
       list-style: none;
       font-size: 1rem;
+      position: relative;
       > a {
         padding: 10px 12px 10px 12px;
         display: inline-block;
@@ -28,6 +29,49 @@
             text-decoration: none;
             transition: all 225ms ease-in 0s;
           }
+        }
+      }
+      &.has-children {
+        > a::after {
+          content: " ▾";
+          font-size: 0.7em;
+        }
+        .dropdown {
+          display: block;
+          position: absolute;
+          top: 100%;
+          left: 0;
+          background: #fff;
+          border: 1px solid rgba(0, 0, 0, 0.1);
+          border-radius: 4px;
+          padding: 4px 0;
+          min-width: 150px;
+          list-style: none;
+          margin: 0;
+          opacity: 0;
+          visibility: hidden;
+          transition: opacity 0.2s ease, visibility 0.2s ease;
+          z-index: 100;
+          li {
+            list-style: none;
+            a {
+              display: block;
+              padding: 8px 16px;
+              color: $primary;
+              text-decoration: none;
+              font-size: 0.95rem;
+              &:hover {
+                text-decoration: underline;
+              }
+            }
+            &.active > a {
+              font-weight: bold;
+            }
+          }
+        }
+        &:hover .dropdown {
+          opacity: 1;
+          visibility: visible;
         }
       }
     }

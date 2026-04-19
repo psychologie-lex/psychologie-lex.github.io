@@ -1,7 +1,14 @@
 main:
-  - name: "Home"
+  - name: "Leistungen"
     url: "/"
     weight: 1
+    children:
+      - name: "Beratung"
+        url: "/services/beratung/"
+      - name: "Angebote"
+        url: "/services/angebote/"
+      - name: "Gruppen"
+        url: "/services/gruppen/"
   - name: "Über Mich"
     url: "/about/"
     weight: 4
