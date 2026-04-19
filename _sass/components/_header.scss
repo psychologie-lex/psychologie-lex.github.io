@@ -11,11 +11,36 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    .header-right {
+      display: flex;
+      align-items: center;
+    }
   }
   &.header-absolute {
     position: absolute;
     z-index: 10;
     width: 100%;
+  }
+}
+.lang-switcher {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 0.85rem;
+  white-space: nowrap;
+  a {
+    color: $primary;
+    text-decoration: none;
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+  .lang-active {
+    font-weight: bold;
+    color: $primary;
+  }
+  .lang-sep {
+    color: $primary;
   }
 }
 .lock-scroll {

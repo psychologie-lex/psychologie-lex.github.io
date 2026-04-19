@@ -35,6 +35,17 @@
   {% include footer.html %}
   {% include sub-footer.html %}
   <script type="text/javascript" src="{{ '/assets/js/scripts.js' | relative_url }}"></script>
+  <script>
+    (function() {
+      if (!localStorage.getItem('lang-preference')) {
+        var lang = (navigator.language || navigator.userLanguage || '').toLowerCase();
+        if (lang.indexOf('de') === -1 && window.location.pathname === '{{ '/' | relative_url }}') {
+          localStorage.setItem('lang-preference', 'en');
+          window.location.href = '{{ '/en/' | relative_url }}';
+        }
+      }
+    })();
+  </script>
   {% include google-analytics.html %}
 </body>
 </html>

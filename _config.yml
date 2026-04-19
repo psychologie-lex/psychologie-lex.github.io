@@ -17,6 +17,9 @@ collections:
   services:
     output: true
     sort_by: weight
+  services_en:
+    output: true
+    sort_by: weight
   team:
     output: true
 
@@ -26,11 +29,23 @@ defaults:
       type: "services"
     values:
       layout: "service"
+      lang: de
+  - scope:
+      path: ""
+      type: "services_en"
+    values:
+      layout: "service"
+      lang: en
+      permalink: "/en/services/:name/"
   - scope:
       path: ""
       type: "team"
     values:
       layout: "team"
+  - scope:
+      path: "en"
+    values:
+      lang: en
 
 sass:
   style: compressed # possible values: nested expanded compact compressed

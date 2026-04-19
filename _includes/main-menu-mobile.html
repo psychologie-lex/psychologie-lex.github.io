@@ -1,5 +1,9 @@
 <div id="main-menu-mobile" class="main-menu-mobile">
-  {% assign mainmenu = site.data.menus.main | sort: 'weight' %}
+  {% if page.lang == 'en' %}
+    {% assign mainmenu = site.data.menus.main_en | sort: 'weight' %}
+  {% else %}
+    {% assign mainmenu = site.data.menus.main | sort: 'weight' %}
+  {% endif %}
   <ul>
     {% for item in mainmenu %}
     {% assign is_active = false %}

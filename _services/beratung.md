@@ -2,6 +2,8 @@
 title: "Beratung"
 date: 2018-11-18T12:33:46+10:00
 weight: 1
+lang: de
+lang_alternate: /en/services/beratung/
 ---
 
 Als klinische Psychologin biete ich Beratung für Menschen in allen Lebenslagen an. 

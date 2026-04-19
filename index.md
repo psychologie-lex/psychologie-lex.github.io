@@ -1,6 +1,8 @@
 ---
 title: Psychologie Lex
 layout: home
+lang: de
+lang_alternate: /en/
 description: Klinische Psychologin in Graz, Österreich. Privat und Kassenpraxis. Persönliche und virtuelle Beratung. 
 intro_image: "images/illustrations/therapy.png"
 intro_image_absolute: true

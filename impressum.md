@@ -1,6 +1,8 @@
 ---
 title: Impressum
 layout: page
+lang: de
+lang_alternate: /impressum/
 description: Impressum
 permalink: "/impressum/"
 ---

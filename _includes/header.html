@@ -6,7 +6,20 @@
     <div class="logo-mobile">
       <a href="{{ '/' | relative_url }}"><img width="{{ site.logo.mobile_width }}" height="{{ site.logo.mobile_height }}" alt="{{ site.title }}" src="{{ site.logo.mobile | relative_url }}" /></a>
     </div>
-    {% include main-menu.html %}
+    <div class="header-right">
+      {% include main-menu.html %}
+      <div class="lang-switcher">
+        {% if page.lang == 'en' %}
+          <a href="{{ page.lang_alternate | default: '/' | relative_url }}">DE</a>
+          <span class="lang-sep">|</span>
+          <span class="lang-active">EN</span>
+        {% else %}
+          <span class="lang-active">DE</span>
+          <span class="lang-sep">|</span>
+          <a href="{{ page.lang_alternate | default: '/en/' | relative_url }}">EN</a>
+        {% endif %}
+      </div>
+    </div>
     {% include hamburger.html %}
   </div>
 </div>

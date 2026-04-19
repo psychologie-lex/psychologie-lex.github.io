@@ -16,6 +16,24 @@ main:
     url: "/contact/"
     weight: 5
 
+main_en:
+  - name: "Services"
+    url: "/en/"
+    weight: 1
+    children:
+      - name: "Counseling"
+        url: "/en/services/beratung/"
+      - name: "Offerings"
+        url: "/en/services/angebote/"
+      - name: "Groups"
+        url: "/en/services/gruppen/"
+  - name: "About"
+    url: "/en/about/"
+    weight: 4
+  - name: "Contact"
+    url: "/en/contact/"
+    weight: 5
+
 footer:
   - name: "Home"
     url: "/"
@@ -25,4 +43,15 @@ footer:
     weight: 2
   - name: "Kontakt"
     url: "/contact/"
+    weight: 3
+
+footer_en:
+  - name: "Home"
+    url: "/en/"
+    weight: 1
+  - name: "About"
+    url: "/en/about/"
+    weight: 2
+  - name: "Contact"
+    url: "/en/contact/"
     weight: 3

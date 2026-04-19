@@ -1,6 +1,8 @@
 ---
 title: Über Mich
 layout: page
+lang: de
+lang_alternate: /en/about/
 description: Über Mich
 bodyClass: page-about
 ---

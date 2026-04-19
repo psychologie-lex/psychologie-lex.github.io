@@ -1,0 +1,29 @@
+[
+  {
+    "title": "First Sessions",
+    "description": "New clients receive their first session at half price.",
+    "image": {
+      "url": "images/features/first_session.png",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Health Insurance",
+    "description": "I offer both private therapy and public health insurance coverage.",
+    "image": {
+      "url": "images/features/insurance.png",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "In-Person or Virtual",
+    "description": "Come to the practice, or meet me via video call.",
+    "image": {
+      "url": "images/features/virtual.png",
+      "width": 80,
+      "height": 80
+    }
+  }
+]

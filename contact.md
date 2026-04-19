@@ -1,6 +1,8 @@
 ---
 title: Kontakt
 layout: contact
+lang: de
+lang_alternate: /en/contact/
 description: Kontakt
 ---
 

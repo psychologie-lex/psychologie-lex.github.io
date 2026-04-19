@@ -5,7 +5,11 @@
         <div class="footer-inner">
           <h2 class="footer-title">{{site.title}}</h2>
           <ul>
-            {% assign footermenu = site.data.menus.footer | sort: 'weight'  %}
+            {% if page.lang == 'en' %}
+              {% assign footermenu = site.data.menus.footer_en | sort: 'weight' %}
+            {% else %}
+              {% assign footermenu = site.data.menus.footer | sort: 'weight' %}
+            {% endif %}
             {% for item in footermenu %}
             <li class="{% if item.url == page.url %}active{% endif %}">
               <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
