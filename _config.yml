@@ -49,6 +49,13 @@ defaults:
 
 sass:
   style: compressed # possible values: nested expanded compact compressed
+  load_paths:
+    - node_modules
+  silence_deprecations:
+    - color-functions
+    - if-function
+    - global-builtin
+    - import
 
 plugins:
   - jekyll-environment-variables
