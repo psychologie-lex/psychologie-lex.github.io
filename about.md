@@ -7,14 +7,17 @@ description: "Lebenslauf und Publikationen von Dr. Heidemarie Lex, Klinische- un
 bodyClass: page-about
 ---
 
-Dr.in scient med. MMag.a **Heidemarie Lex** ist Klinische- und Gesundheitspsychologin in Graz, Österreich. Sie bietet persönliche und virtuelle Beratung für Menschen in allen Lebenslagen an.
+
+## MMag.<sup>a</sup> Dr.<sup>in</sup> **Heidemarie Lex**
+
+Ich bin Klinische- und Gesundheitspsychologin in Graz, Österreich. Ich biete persönliche und virtuelle Beratung für Menschen in allen Lebenslagen an.
 
 
 <img src="{{ '/images/2024_Heidemarie_Lex.jpg' | relative_url }}" alt="Heidemarie Lex" style="width: 70%; height: auto;" />
 
 
 
-# Werdegang
+## Werdegang
 
 <table style="border: none; border-collapse: collapse;">
 <tbody>
@@ -35,10 +38,10 @@ Dr.in scient med. MMag.a **Heidemarie Lex** ist Klinische- und Gesundheitspsycho
 
 ## Multiple Sklerose
 
-Seit 2004 an Multipler Sklerose erkrankt.
+Ich bin seit 2004 an Multipler Sklerose erkrankt.
 
 
-# Publikationen
+## Publikationen
 
 Heidemarie Lex, Pollie Price, Lauren Clark. **Qualitative study identifies life shifts and stress coping strategies in people with multiple sclerosis.**
   Nature Scientific Reports, Volume 12, Article Number: 6536.

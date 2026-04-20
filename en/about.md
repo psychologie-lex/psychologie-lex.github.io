@@ -7,14 +7,16 @@ description: "CV and publications of Dr. Heidemarie Lex, clinical and health psy
 bodyClass: page-about
 ---
 
-Dr.in scient med. MMag.a **Heidemarie Lex** is a clinical and health psychologist in Graz, Austria. She offers in-person and virtual counseling for people in all walks of life.
+## MMag.<sup>a</sup> Dr.<sup>in</sup> **Heidemarie Lex**
+
+I am a clinical and health psychologist in Graz, Austria. I offer in-person and virtual counseling for people in all walks of life.
 
 
 <img src="{{ '/images/2024_Heidemarie_Lex.jpg' | relative_url }}" alt="Heidemarie Lex" style="width: 70%; height: auto;" />
 
 
 
-# Background
+## Background
 
 <table style="border: none; border-collapse: collapse;">
 <tbody>
@@ -35,10 +37,10 @@ Dr.in scient med. MMag.a **Heidemarie Lex** is a clinical and health psychologis
 
 ## Multiple Sclerosis
 
-Living with multiple sclerosis since 2004.
+I have been living with multiple sclerosis since 2004.
 
 
-# Publications
+## Publications
 
 Heidemarie Lex, Pollie Price, Lauren Clark. **Qualitative study identifies life shifts and stress coping strategies in people with multiple sclerosis.**
   Nature Scientific Reports, Volume 12, Article Number: 6536.

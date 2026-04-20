@@ -14,7 +14,7 @@ Mein Ansatz ist es, Menschen in schwierigen Lebenssituationen zu unterstützen, 
 <img src="{{ '/images/illustrations/therapy_2.png' | relative_url }}" alt="Illustration Therapie" style="float: right; width: 380px; margin: 0 0 1.5rem 2rem;" />
 
 
-# Angebote
+## Angebote
 
 * Maßgeschneiderte Beratung und Therapie
 * Emotionsregulation und Achtsamkeit / Mindfulness
