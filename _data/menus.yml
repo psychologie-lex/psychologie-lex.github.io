@@ -9,6 +9,9 @@ main:
         url: "/services/angebote/"
       - name: "Gruppen"
         url: "/services/gruppen/"
+  - name: "Ablauf"
+    url: "/process/"
+    weight: 3
   - name: "Über Mich"
     url: "/about/"
     weight: 4
@@ -27,6 +30,9 @@ main_en:
         url: "/en/services/angebote/"
       - name: "Groups"
         url: "/en/services/gruppen/"
+  - name: "Process"
+    url: "/en/process/"
+    weight: 3
   - name: "About"
     url: "/en/about/"
     weight: 4
