@@ -2,6 +2,7 @@
   {
     "title": "First Sessions",
     "description": "New clients receive their first session at half price.",
+    "url": "/en/process/#fees-and-payment",
     "image": {
       "url": "images/features/first_session.png",
       "width": 80,
@@ -11,6 +12,7 @@
   {
     "title": "Health Insurance",
     "description": "I offer therapy for private patients as well as through health insurance.",
+    "url": "/en/process/#health-insurance-coverage",
     "image": {
       "url": "images/features/insurance.png",
       "width": 80,
@@ -20,6 +22,7 @@
   {
     "title": "In-Person or Virtual",
     "description": "Come to the practice, or meet me via video call.",
+    "url": "/en/contact/",
     "image": {
       "url": "images/features/virtual.png",
       "width": 80,

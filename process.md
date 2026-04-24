@@ -31,6 +31,7 @@ Die Frequenz und Dauer der Termine (z. B. wöchentlich oder zweiwöchentlich) wi
 
 ## Honorar und Zahlungsmodalitäten
 
+- Neue Klient:innen erhalten ein Erstgespräch zum halben Preis.
 - Zahlung per Überweisung (Zahlungsziel: 14 Tage) oder bar nach der Einheit.  
 - Bei kurzfristigen Absagen (unter 48 Stunden) wird das volle Honorar verrechnet.  
 

@@ -2,6 +2,7 @@
   {
     "title": "Erstgespräche",
     "description": "Neue Klient:innen erhalten ein Erstgespräch zum halben Preis.",
+    "url": "/process/#honorar-und-zahlungsmodalitäten",
     "image": {
       "url": "images/features/first_session.png",
       "width": 80,
@@ -11,6 +12,7 @@
   {
     "title": "Kassentherapie",
     "description": "Ich biete Therapie für Privatpatient:innen sowie über die Krankenkasse an.",
+    "url": "/process/#kassenleistungen",
     "image": {
       "url": "images/features/insurance.png",
       "width": 80,
@@ -20,6 +22,7 @@
   {
     "title": "Persönlich oder Virtuell",
     "description": "Kommen Sie in die Praxis, oder treffen Sie mich via Videoanruf.",
+    "url": "/contact/",
     "image": {
       "url": "images/features/virtual.png",
       "width": 80,
