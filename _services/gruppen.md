@@ -10,8 +10,7 @@ description: "Gruppentherapie in Graz und virtuell – geschützter Raum für di
 
 Gruppentherapie bietet einen geschützten Raum, in dem Menschen erleben können, dass sie mit ihren Gedanken und Gefühlen nicht allein sind. 
 
-
-Der Austausch mit anderen fördert neue Perspektiven und stärkt soziale Kompetenzen. Viele Teilnehmende profitieren davon, sich verstanden zu fühlen, Feedback zu erhalten und gemeinsam an Lösungen zu arbeiten. So kann Gruppentherapie einen wirksamen Beitrag zur persönlichen Entwicklung und zur Bewältigung psychischer Belastungen leisten.
+Aktuell, biete ich Gruppentherapie für Menschen mit Multipler Sklerose an. Der Austausch mit anderen fördert neue Perspektiven und stärkt soziale Kompetenzen. Viele Teilnehmende profitieren davon, sich verstanden zu fühlen, Feedback zu erhalten und gemeinsam an Lösungen zu arbeiten. So kann Gruppentherapie einen wirksamen Beitrag zur persönlichen Entwicklung und zur Bewältigung psychischer Belastungen leisten.
 
 Gruppen finden sowohl persönlich als auch virtuell statt.
 

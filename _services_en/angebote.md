@@ -12,7 +12,7 @@ My approach is to support people in difficult life situations so that they can o
 <img src="{{ '/images/illustrations/therapy_2.png' | relative_url }}" alt="Therapy illustration" style="float: right; width: 380px; margin: 0 0 1.5rem 2rem;" />
 
 
-# Services
+## Services
 
 * Tailored counseling and therapy
 * Emotion regulation and mindfulness

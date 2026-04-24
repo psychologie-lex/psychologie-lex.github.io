@@ -9,7 +9,7 @@ description: "Group therapy in Graz and virtually – a safe space in the Multip
 
 Group therapy provides a protected space where people can experience that they are not alone with their thoughts and feelings.
 
-Sharing with others encourages new perspectives and strengthens social skills. Many participants benefit from feeling understood, receiving feedback, and working together on solutions. Group therapy can thus make an effective contribution to personal development and coping with psychological stress.
+Currently, I offer a multiple sclerosis group. Sharing with others encourages new perspectives and strengthens social skills. Many participants benefit from feeling understood, receiving feedback, and working together on solutions. Group therapy can thus make an effective contribution to personal development and coping with psychological stress.
 
 Groups take place both in-person and virtually.
 

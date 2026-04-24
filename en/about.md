@@ -20,8 +20,8 @@ I am a clinical and health psychologist in Graz, Austria. I offer in-person and 
 
 <table style="border: none; border-collapse: collapse;">
 <tbody>
-<tr><td style="white-space:nowrap; padding-right: 1.5rem; border: none;">1999–2004</td><td style="border: none;">Studied sociology in Graz.</td></tr>
-<tr><td style="white-space:nowrap; padding-right: 1.5rem; border: none;">2000–2008</td><td style="border: none;">Studied psychology in Graz and Barcelona.</td></tr>
+<tr><td style="white-space:nowrap; padding-right: 1.5rem; border: none;">1999–2004</td><td style="border: none;">Studied sociology at the University of Graz.</td></tr>
+<tr><td style="white-space:nowrap; padding-right: 1.5rem; border: none;">2000–2008</td><td style="border: none;">Studied psychology at the University of Graz and the Universitat Autònoma de Barcelona.</td></tr>
 <tr><td style="white-space:nowrap; padding-right: 1.5rem; border: none;">2009–2010</td><td style="border: none;">Training as a clinical and health psychologist in Graz.</td></tr>
 <tr><td style="white-space:nowrap; padding-right: 1.5rem; border: none;">2010</td><td style="border: none;">Founded the practice in Graz.</td></tr>
 <tr><td style="white-space:nowrap; padding-right: 1.5rem; border: none;">2010–2015</td><td style="border: none;">Doctoral studies in medical sciences at the Medical University of Graz and at Beth Israel Deaconess Medical Center (a Harvard Teaching Hospital) in Boston.</td></tr>
