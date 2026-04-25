@@ -8,10 +8,7 @@ bodyClass: page-process
 ---
 
 Ich biete klinisch-psychologische Beratung und Behandlung für Erwachsene sowie Jugendliche ab 17 Jahren an.
-
-## Verschwiegenheit
-
-Als Klinische Psychologin unterliege ich der gesetzlich geregelten Verschwiegenheitspflicht gemäß Psychologengesetz 2013 (§ 37). Alle Inhalte der Gespräche werden streng vertraulich behandelt.
+Hier finden Sie alle wichtigen Informationen rund um den Ablauf einer Beratung oder Behandlung — von der ersten Kontaktaufnahme über Dauer und Honorar bis hin zu den Möglichkeiten der Kostenübernahme durch die Krankenkasse. 
 
 ## Erstgespräch
 
@@ -76,6 +73,9 @@ Die Vergabe von voll finanzierten Kassenplätzen erfolgt zentral über die Platt
 - E-Mail: [service@psyhelp.at](mailto:service@psyhelp.at)
 - Erreichbarkeit: Montag bis Freitag, 9:00–17:00 Uhr  
 
+## Verschwiegenheit
+
+Als Klinische Psychologin unterliege ich der gesetzlich geregelten Verschwiegenheitspflicht gemäß Psychologengesetz 2013 (§ 37). Alle Inhalte der Gespräche werden streng vertraulich behandelt.
 
 
 

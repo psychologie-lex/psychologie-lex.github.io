@@ -9,7 +9,8 @@
     margin-bottom: 20px;
   }
   strong {
-    font-width: bold;
+    font-weight: bold;
+    color: $primary;
   }
   em {
     font-style: italic;
@@ -26,6 +27,7 @@
     font-weight: normal;
     margin-top: 30px;
     margin-bottom: 20px;
+    color: $primary;
   }
   h2 {
     font-family: $font-family-base;
@@ -33,6 +35,7 @@
     font-weight: normal;
     line-height: 1.4;
     margin-top: 30px;
+    color: $primary;
   }
   h3 {
     font-family: $font-family-base;
@@ -40,6 +43,7 @@
     line-height: 1.4;
     font-weight: normal;
     margin-top: 30px;
+    color: $primary;
   }
   ul,
   ol {

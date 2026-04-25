@@ -8,10 +8,7 @@ bodyClass: page-process
 ---
 
 I offer clinical-psychological counseling and treatment for adults and adolescents aged 17 and above.
-
-## Confidentiality
-
-As a clinical psychologist, I am bound by statutory confidentiality obligations under the Psychology Act 2013 (§ 37). All session content is treated with strict confidentiality.
+Here you will find all the information about how counseling and treatment work — from the first appointment through session length and fees to the options for health insurance coverage.
 
 ## Initial Session
 
@@ -72,3 +69,7 @@ Fully funded contracted slots are allocated centrally through **Psyhelp**: [http
 - Phone: [0800 10 02 03](tel:0800100203) (free of charge)
 - Email: [service@psyhelp.at](mailto:service@psyhelp.at)
 - Hours: Monday to Friday, 9:00 am – 5:00 pm
+
+## Confidentiality
+
+As a clinical psychologist, I am bound by statutory confidentiality obligations under the Psychology Act 2013 (§ 37). All session content is treated with strict confidentiality.
