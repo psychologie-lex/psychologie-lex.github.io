@@ -29,6 +29,7 @@ The frequency and number of sessions (e.g. weekly or biweekly) are agreed upon t
 
 ## Fees and Payment
 
+- The fee for each session is 105 euros.
 - New clients receive their first session at half price.
 - Payment by bank transfer (due within 14 days) or cash after the session.
 - Cancellations with less than 48 hours' notice will be charged in full.

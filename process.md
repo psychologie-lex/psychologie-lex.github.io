@@ -27,10 +27,9 @@ Die Frequenz und Dauer der Termine (z. B. wöchentlich oder zweiwöchentlich) wi
 - **Beratung:** individuell und je nach Anliegen, oft kürzer angelegt.  
 
 
-
-
 ## Honorar und Zahlungsmodalitäten
 
+- Das Honorar pro Einheit beläuft sich auf 105 Euro.
 - Neue Klient:innen erhalten ein Erstgespräch zum halben Preis.
 - Zahlung per Überweisung (Zahlungsziel: 14 Tage) oder bar nach der Einheit.  
 - Bei kurzfristigen Absagen (unter 48 Stunden) wird das volle Honorar verrechnet.  
